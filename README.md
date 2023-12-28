@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waziri Kunambi
 ======================================================================================================================================
 
-Software Engineer
+Software Developer
 -----------------
 
-I am a software engineer with a strong passion for making open-source contributions more accessible. My expertise lies in creating technology that uplifts individuals and in fostering a sense of community. I find fulfillment in working with a variety of technologies to achieve these objectives.
+I am a software developer with a strong passion for making open-source contributions more accessible. My expertise lies in creating technology that uplifts individuals and in fostering a sense of community. I find fulfillment in working with a variety of technologies to achieve these objectives.
 
 * 🌍  I'm based in Dar es Salaam - Tanzania
 * 🖥️  See my portfolio at [My Website](http://wisdom-kunambi.github.io/wazirikunambi.me/)
