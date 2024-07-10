@@ -7,6 +7,7 @@ Software Developer
 I am a software developer with a strong passion for making open-source contributions more accessible. My expertise lies in creating technology that uplifts individuals and in fostering a sense of community. I find fulfillment in working with a variety of technologies to achieve these objectives.
 
 * 🌍  I'm based in Dar es Salaam - Tanzania
+* I'm currently sharpening my skills in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 * 🖥️  See my portfolio at [My Website](http://wisdom-kunambi.github.io/wazirikunambi.me/)
 * ✉️  You can contact me at [kunambiwaziri1@gmail.com](mailto:kunambiwaziri1@gmail.com)
 * 🤝  I'm open to collaborating on Web App and Mobile Development Projects
