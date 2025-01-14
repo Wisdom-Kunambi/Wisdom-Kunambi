@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Open+Source+Enthusiast;Community+Builder&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Open+Source+Enthusiast;Tech+Enthusiast;Community+Builder&font=Fira%20Code&color=FFFFFF&size=20&duration=2000&pause=1000&center=true&width=380&height=50">
 </div>
 
 I am a software developer with a strong passion for making open-source contributions more accessible. My expertise lies in creating technology that uplifts individuals and in fostering a sense of community. I find fulfillment in working with a variety of technologies to achieve these objectives.
