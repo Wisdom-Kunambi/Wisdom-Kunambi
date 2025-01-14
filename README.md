@@ -1,8 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waziri Kunambi
 ======================================================================================================================================
 
-Software Developer
------------------
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Open+Source+Enthusiast;Community+Builder&font=Fira%20Code&center=true&width=380&height=50">
+</div>
 
 I am a software developer with a strong passion for making open-source contributions more accessible. My expertise lies in creating technology that uplifts individuals and in fostering a sense of community. I find fulfillment in working with a variety of technologies to achieve these objectives.
 
