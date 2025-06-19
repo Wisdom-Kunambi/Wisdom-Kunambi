@@ -2,5 +2,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front‑End+Engineer;Tech+Enthusiast;Community+Builder&font=Fira%20Code&color=FFFFFF&size=20&duration=2000&pause=1000&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front‑End+Engineer;Community+Builder&font=Fira%20Code&color=FFFFFF&size=20&duration=2000&pause=1000&center=true&width=380&height=50">
 </div>
